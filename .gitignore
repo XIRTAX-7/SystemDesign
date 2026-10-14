@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Logs and local temp
+*.log
+tmp/
+temp/
+
+# Local review notes, not for the repo
+instagram-like-feed/dopushcheniya.md
